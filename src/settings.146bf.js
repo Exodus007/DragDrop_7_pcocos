@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["Animals","Container","Outside"],collisionMatrix:[[true,true,true],[true,false],[true,false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scenes/Main.fire",orientation:"",jsList:[],bundleVers:{internal:"279e0",main:"c8202"}};
